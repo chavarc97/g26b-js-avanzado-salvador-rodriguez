@@ -1,0 +1,1 @@
+Crear un nuevo proyecto en Node en el cual instalaran la paquetería nodemon y el archivo js principal será el de añadir tareas imprimarlas en consola y después borrar el elemento de la lista mediante funciones e imprimr la lista después de eliminar una tarea
